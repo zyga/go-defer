@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='go-defer',
-    version='1.0',
+    version='1.0.1',
     author="Zygmunt Krynicki",
     author_email="<zkrynicki@gmail.com>",
     license='BSD',
