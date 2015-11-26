@@ -8,7 +8,7 @@ setup(
     author_email="<zkrynicki@gmail.com>",
     license='BSD',
     py_modules=['go_defer'],
-    url='https://github.com/zyga/defer',
+    url='https://github.com/zyga/go-defer',
     description="Go's defer for Python",
     classifiers=[
         'Development Status :: 5 - Production/Stable',
